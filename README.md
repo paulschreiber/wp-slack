@@ -2,7 +2,7 @@ A Slackbot that announces whenever a new WordPress post is published. Includes a
 
 
 ## Installation
-1. Upload `wp-slack` to the ``/wp-content/plugins/` directory.
+1. Upload `wp-slack` to the `/wp-content/plugins/` directory.
 1. Activate the plugin through the "Plugins" menu in WordPress.
 1. Set up the `wp_slack_endpoint` filter
 
